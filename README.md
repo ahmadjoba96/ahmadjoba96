@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Ahmad Joba
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)
 
-👋 Hi! I’m Ahmad Joba
+
 💻Computer Science student at PPU
+
 🏆 Competitive Programmer
 
 Skills: C++ / JAVA / JS / HTML / CSS / MySQL
