@@ -34,9 +34,8 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://www.udemy.com/user/ahmad-joba/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977588.png" alt="udemy" height="30">
+  <img src="https://w7.pngwing.com/pngs/13/317/png-transparent-udemy-round-logo-tech-companies.png" alt="udemy" height="30">
 </a>
-
 
 ---
 
