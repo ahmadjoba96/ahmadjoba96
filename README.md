@@ -11,7 +11,7 @@ Skills: C++ / JAVA / JS / HTML / CSS / MySQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ahmadjoba96)&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg(https://cdn-icons-png.flaticon.com/256/2496/2496097.png)' alt='linkedin' height='30'>](https://www.linkedin.com/in/ahmadjoba/)&nbsp;&nbsp;
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg(https://cdn-icons-png.flaticon.com/256/2496/2496097.png)](https://cdn-icons-png.flaticon.com/256/2496/2496097.png)' alt='linkedin' height='30'>](https://www.linkedin.com/in/ahmadjoba/)&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='30'>](https://codeforces.com/profile/A7mad_Joba)&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='30'>](https://leetcode.com/u/ahmadjoba/)
 
