@@ -34,9 +34,6 @@
   <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="leetcode" height="30">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.udemy.com/user/ahmad-joba/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" alt="udemy" height="30">
-</a>
 
 ---
 
