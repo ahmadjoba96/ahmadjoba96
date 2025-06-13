@@ -25,17 +25,20 @@
 ---
 
 ### 🌐 Personal Profiles
-<a href="https://codeforces.com/profile/A7mad_Joba" target="_blank">
-  <img src="https://codewithsathya.gallerycdn.vsassets.io/extensions/codewithsathya/codeforces-pro/1.3.2/1747812349282/Microsoft.VisualStudio.Services.Icons.Default" alt="codeforces" height="30">
-</a>;
 
-<a href="https://leetcode.com/u/ahmadjoba/" target="_blank">
-  <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="leetcode" height="30">
-</a>;
+<p>
+  <a href="https://codeforces.com/profile/A7mad_Joba" target="_blank" title="Codeforces">
+    <img src="https://codewithsathya.gallerycdn.vsassets.io/extensions/codewithsathya/codeforces-pro/1.3.2/1747812349282/Microsoft.VisualStudio.Services.Icons.Default" alt="Codeforces" height="30" style="margin-right:10px;">
+  </a>
 
-<a href="https://www.udemy.com/user/ahmad-joba/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" alt="udemy" height="30">
-</a>
+  <a href="https://leetcode.com/u/ahmadjoba/" target="_blank" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="LeetCode" height="30" style="margin-right:10px;">
+  </a>
+
+  <a href="https://www.udemy.com/user/ahmad-joba/" target="_blank" title="Udemy">
+    <img src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" alt="Udemy" height="30">
+  </a>
+</p>
 
 ---
 
