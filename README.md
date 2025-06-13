@@ -25,15 +25,15 @@
 ---
 
 ### 🌐 Personal Profiles
-<a href="https://codeforces.com/profile/A7mad_Joba" target="blank">
+<a href="https://codeforces.com/profile/A7mad_Joba" target="_blank">
   <img src="https://codewithsathya.gallerycdn.vsassets.io/extensions/codewithsathya/codeforces-pro/1.3.2/1747812349282/Microsoft.VisualStudio.Services.Icons.Default" alt="codeforces" height="30">
-</a>&nbsp;&nbsp;
+</a>;
 
-<a href="https://leetcode.com/u/ahmadjoba/" target="blank">
+<a href="https://leetcode.com/u/ahmadjoba/" target="_blank">
   <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="leetcode" height="30">
-</a>&nbsp;&nbsp;
+</a>;
 
-<a href="https://www.udemy.com/user/ahmad-joba/" target="blank">
+<a href="https://www.udemy.com/user/ahmad-joba/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" alt="udemy" height="30">
 </a>
 
