@@ -25,9 +25,18 @@
 ---
 
 ### 🌐 Personal Profiles
-<img src='https://codewithsathya.gallerycdn.vsassets.io/extensions/codewithsathya/codeforces-pro/1.3.2/1747812349282/Microsoft.VisualStudio.Services.Icons.Default' alt='codeforces' height='30'>  
-<img src='https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png' alt='leetcode' height='30'>  
-<img src='https://cdn-icons-png.flaticon.com/512/5977/5977588.png' alt='udemy' height='30'>
+<a href="https://codeforces.com/profile/A7mad_Joba" target="_blank">
+  <img src="https://codewithsathya.gallerycdn.vsassets.io/extensions/codewithsathya/codeforces-pro/1.3.2/1747812349282/Microsoft.VisualStudio.Services.Icons.Default" alt="codeforces" height="30">
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/ahmadjoba/" target="_blank">
+  <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="leetcode" height="30">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.udemy.com/user/ahmad-joba/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977588.png" alt="udemy" height="30">
+</a>
+
 
 ---
 
