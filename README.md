@@ -42,17 +42,13 @@
 
 ### 📬 Contact Me  
 
-<span style="display: inline-block; margin-right: 20px;">
-  <a href="https://www.linkedin.com/in/ahmadjoba/" target="_blank" title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="LinkedIn" height="30" style="vertical-align: middle;">
-  </a>
-</span>
+<a href="https://www.linkedin.com/in/ahmadjoba/" target="_blank" title="LinkedIn">
+  <img src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="LinkedIn" height="30" style="vertical-align: middle;">
+</a>
 
-<span style="display: inline-block;">
-  <a href="mailto:ahmadjoba2005@gmail.com" title="Email">
-    <img src="https://www.citypng.com/public/uploads/preview/flat-round-icon-contains-gmail-logo-701751695128092ryfcqw548r.png" alt="Gmail" height="30" style="vertical-align: middle;">
-  </a>
-</span>
+<a href="mailto:ahmadjoba2005@gmail.com" title="Email" style="margin-left: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" style="vertical-align: middle;">
+</a>
 
 ---
 
