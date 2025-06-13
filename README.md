@@ -47,7 +47,7 @@
 </a>
 
 <a href="mailto:ahmadjoba2005@gmail.com" title="Email">
-  <img src="https://www.citypng.com/public/uploads/preview/flat-round-icon-contains-gmail-logo-701751695128092ryfcqw548r.png" alt="Gmail" height="30" style="vertical-align: middle;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" style="vertical-align: middle;">
 </a>
 
 ---
