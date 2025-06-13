@@ -45,6 +45,9 @@
 <a href="https://www.linkedin.com/in/ahmadjoba/" target="_blank" title="LinkedIn">
   <img src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="LinkedIn" height="33" style="vertical-align: middle;">
 </a>
+<a href="mailto:ahmadjoba2005@gmail.com" title="Email" style="margin-left: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="33" style="vertical-align: middle;">
+</a>
 
 ---
 
