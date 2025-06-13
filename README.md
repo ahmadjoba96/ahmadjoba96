@@ -24,15 +24,18 @@
 
 ---
 
-### 🌐 Personal Profiles  
-[<img src='https://codewithsathya.gallerycdn.vsassets.io/extensions/codewithsathya/codeforces-pro/1.3.2/1747812349282/Microsoft.VisualStudio.Services.Icons.Default' alt='codeforces' height='30'>](https://codeforces.com/profile/A7mad_Joba)&nbsp;&nbsp;
-[<img src='https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png' alt='leetcode' height='30'>](https://leetcode.com/u/ahmadjoba/)
+### 🌐 Personal Profiles
+<img src='https://codewithsathya.gallerycdn.vsassets.io/extensions/codewithsathya/codeforces-pro/1.3.2/1747812349282/Microsoft.VisualStudio.Services.Icons.Default' alt='codeforces' height='30'>  
+<img src='https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png' alt='leetcode' height='30'>  
+<img src='https://cdn-icons-png.flaticon.com/512/5977/5977588.png' alt='udemy' height='30'>
 
 ---
 
 ### 📬 Contact Me  
 [<img src='https://cdn-icons-png.flaticon.com/256/2496/2496097.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/ahmadjoba/)&nbsp;&nbsp;
-[<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt='email' height='30'>](mailto:ahmadjoba2005@gmail.com)
+<a href="mailto:ahmadjoba2005@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30">
+</a>
 
 ---
 
