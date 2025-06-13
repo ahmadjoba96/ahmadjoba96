@@ -40,7 +40,7 @@
 
 ---
 
-### 📬 Contact Me  
+### ✉️ Contact Me
 
 <a href="https://www.linkedin.com/in/ahmadjoba/" target="_blank" title="LinkedIn">
   <img src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="LinkedIn" height="33" style="vertical-align: middle;">
