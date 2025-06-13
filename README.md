@@ -34,7 +34,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://www.udemy.com/user/ahmad-joba/" target="_blank">
-  <img src="https://w7.pngwing.com/pngs/13/317/png-transparent-udemy-round-logo-tech-companies.png" alt="udemy" height="30">
+  <img src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" alt="udemy" height="30">
 </a>
 
 ---
