@@ -9,7 +9,7 @@
 
 <p align="center">
   🎓 Computer Science student at <b>Palestine Polytechnic University</b><br>
-  🧩 Passionate Problem Solver
+  🧩 Problem Solver
 </p>
 
 ---
