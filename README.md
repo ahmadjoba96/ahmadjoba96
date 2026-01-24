@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Ahmad Joba
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;My+name+is+Ahmad+Joba;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -6,7 +8,7 @@
 
 ---
 
-💻 **Computer Science student at PPU**    
+💻 **Computer Science student at Palestine Polytechnic University**    
 🧠 **Problem Solver**
 
 ---
