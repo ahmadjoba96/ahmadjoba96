@@ -7,8 +7,10 @@
 
 ---
 
-💻 **Computer Science student at Palestine Polytechnic University**    
-🧠 **Problem Solver**
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-1F6FEB?style=flat&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem-Solver-6E7681?style=flat&logo=leetcode&logoColor=white" />
+</p>
 
 ---
 
